@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3E4999</color>
+    <color name="darkBlue">#000B4F</color>
+    <color name="ligthPrimary">#7579D0</color>
+    <color name="colorAccentDark">#528070</color>
+    <color name="colorAccent">#00C892</color>
+    <color name="ligthAccent">#C9FCE9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="contrastViolet">#A14F9D</color>
+    <color name="contrastPink">#E55F8B</color>
+    <color name="contrastSalmon">#FF8770</color>
+    <color name="contrastOrange">#FFBE5E</color>
+    <color name="contrastYellow">#F9F871</color>
+</resources>
